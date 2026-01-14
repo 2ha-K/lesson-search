@@ -1,0 +1,10 @@
+requests
+tqdm
+pymupdf
+pymongo
+numpy
+sentence-transformers
+rank-bm25
+fastapi
+uvicorn
+python-dotenv
