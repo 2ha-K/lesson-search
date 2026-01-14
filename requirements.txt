@@ -1,7 +1,7 @@
 requests
 tqdm
 pymupdf
-pymongo
+pymongo==3.12
 numpy
 sentence-transformers
 rank-bm25
